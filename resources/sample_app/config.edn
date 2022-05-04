@@ -1,0 +1,13 @@
+{:com.wsscode.pathom3.integrant/pathom3
+ {:com.wsscode.pathom3.integrant/registry
+  [#pathom3/ops some.org.sample-resolvers/registry
+   #pathom3/ops "some\\.org\\..+"]
+
+  :com.wsscode.pathom3.integrant/env
+  {}
+
+  :com.wsscode.pathom3.integrant/pathom-viz-enabled?
+  false
+
+  :com.wsscode.pathom3.integrant/pathom-viz-name
+  "demo"}}
