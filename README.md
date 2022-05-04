@@ -2,6 +2,8 @@
 
 This library provides tools to facilitate the usage of [Pathom 3](https://pathom3.wsscode.com/) via [Integrant](https://github.com/weavejester/integrant).
 
+IN DEVELOPMENT, NOT READY FOR GENERAL USAGE
+
 ## Setup
 
 Example on what settings you can use:
