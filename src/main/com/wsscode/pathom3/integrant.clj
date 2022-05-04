@@ -5,8 +5,7 @@
     [com.wsscode.pathom3.connect.indexes :as pci]
     [com.wsscode.pathom3.connect.operation :as pco]
     [com.wsscode.pathom3.interface.eql :as p.eql]
-    [integrant.core :as ig]
-    [some.org.sample-resolvers]))
+    [integrant.core :as ig]))
 
 (s/def ::registry ::pci/operations)
 (s/def ::env map?)
