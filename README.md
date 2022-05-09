@@ -25,3 +25,10 @@ Example on what settings you can use:
 ```
 
 The `:com.wsscode.pathom3.integrant/pathom3` key will be a [boundary interface](https://pathom3.wsscode.com/docs/eql/#boundary-interface).
+
+To use the Pathom Viz helpers you also need to add the [Pathom Viz Connector](https://github.com/wilkerlucio/pathom-viz-connector/)
+dependency (I recommend adding that as a developer dependency):
+
+```
+com.wsscode/pathom-viz-connector {:mvn/version "2022.02.14"}
+```
